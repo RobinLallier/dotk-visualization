@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="985px" height="947px" viewBox="0 0 985 947" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Perdurants</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Perdurants">
+            <g transform="translate(16.000000, 21.000000)">
+                <g transform="translate(293.000000, 333.000000)">
+                    <path d="M168.695643,0 C261.863674,0 337.391287,75.5276121 337.391287,168.695643 C337.391287,261.863674 261.863674,337.391287 168.695643,337.391287 C75.5276121,337.391287 0,261.863674 0,168.695643 C-3.20217926e-14,75.5276121 75.5276121,3.20217926e-14 168.695643,0 Z" id="Shape" stroke="#FFFFFF" fill="#00B127"></path>
+                    <text font-family="SourceSansPro-Bold, Source Sans Pro" font-size="40" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="71.36" y="183">Perdurants</tspan>
+                    </text>
+                </g>
+                <g id="Stative:-none" transform="translate(223.000000, 263.000000)">
+                    <path d="M238.5,0.28125 C336.474337,0.28125 424.457536,60.2671793 460.251581,151.468918 C496.045626,242.670656 472.350171,346.487227 400.529899,413.126701 C328.709628,479.766174 223.412586,495.637149 135.140758,453.127678 C46.8689304,410.618206 -6.37427345,318.398272 0.94735794,220.697891 L70.5249159,225.912008 C65.3477407,294.99661 102.996371,360.20595 165.413979,390.264686 C227.831587,420.323422 302.28784,409.100948 353.072441,361.979724 C403.857041,314.858501 420.612258,241.449099 395.302047,176.959732 C369.991835,112.470364 307.778318,70.0539065 238.5,70.0539065 L238.5,0.28125 Z" id="Shape" stroke="#FFFFFF" fill="#8ACA35"></path>
+                    <text id="Stative" fill="#FFFFFF" transform="translate(380.068301, 385.028366) rotate(47.142857) translate(-380.068301, -385.028366) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                        <tspan x="361.068301" y="389.528366">Stative</tspan>
+                    </text>
+                </g>
+                <g id="Organization:-none" transform="translate(223.000000, 460.000000)">
+                    <path d="M0.944168183,23.6192761 C1.53411764,15.7878642 2.51634703,7.99059779 3.88719567,0.256536654 L72.368493,12.2688766 C71.3991566,17.7376837 70.7046155,23.2511837 70.2874583,28.7888281 L0.944168183,23.6192761 Z" id="Shape" stroke="#FFFFFF" fill="#DBDB14"></path>
+                    <text id="Organization" fill="#FFFFFF" transform="translate(33.320217, 15.242038) rotate(7.142857) translate(-33.320217, -15.242038) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold" letter-spacing="-0.699999988">
+                        <tspan x="2.82021729" y="19.7420378">Organization</tspan>
+                    </text>
+                </g>
+                <g id="Fact:-none" transform="translate(227.000000, 373.000000)">
+                    <path d="M0.528107601,87.8988746 C6.07639956,56.637634 17.8652594,26.7955038 35.2003396,0.130144524 L94.12129,37.9377791 C81.8635373,56.7930354 73.5275545,77.894608 69.6043197,99.9996433 L0.528107601,87.8988746 Z" id="Shape" stroke="#FFFFFF" fill="#CDE30D"></path>
+                    <text id="Fact" fill="#FFFFFF" transform="translate(47.133804, 49.847071) rotate(21.428571) translate(-47.133804, -49.847071) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                        <tspan x="35.6338042" y="54.3470705">Fact</tspan>
+                    </text>
+                </g>
+                <g id="Event:-none" transform="translate(262.000000, 263.000000)">
+                    <path d="M0.139899745,108.977304 C43.9647755,41.2111792 119.223707,0.280534351 200,0.280534351 L200,69.8756523 C142.882536,69.8756523 89.6664346,98.8179888 58.6775678,146.735875 L0.139899745,108.977304 Z" id="Shape" stroke="#FFFFFF" fill="#00B127"></path>
+                    <text id="Event" fill="#FFFFFF" transform="translate(106.388268, 57.797066) rotate(61.428571) translate(-106.388268, -57.797066) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                        <tspan x="90.8882682" y="62.2970658">Event</tspan>
+                    </text>
+                </g>
+                <g id="Process:-none" transform="translate(169.000000, 209.000000)">
+                    <path d="M292.5,0.742807668 C412.493567,0.742807668 520.250539,74.210267 564.089111,185.909128 C607.927684,297.60799 578.906797,424.756803 490.945288,506.373156 C402.983779,587.989509 274.021767,607.427405 165.911298,555.364147 C57.8008303,503.30089 -7.40851054,390.354998 1.55861995,270.696958 L54.9473579,274.697891 C47.6257266,372.398272 100.86893,464.618206 189.140758,507.127678 C277.412586,549.637149 382.709628,533.766174 454.529899,467.126701 C526.350171,400.487227 550.045626,296.670656 514.251581,205.468918 C478.457536,114.267179 390.474337,54.28125 292.5,54.28125 L292.5,0.742807668 Z" id="Shape" stroke="#FFFFFF" fill="#AAD66F"></path>
+                    <text id="Process" fill="#000000" transform="translate(472.542508, 481.632961) rotate(47.142857) translate(-472.542508, -481.632961) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="11" font-weight="normal">
+                        <tspan x="454.542508" y="485.632961">Process</tspan>
+                    </text>
+                </g>
+                <g id="Management-of-document-electronically-between-companies:-1" transform="translate(42.000000, 439.000000)" fill="#DBDB14" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" line-spacing="11">
+                    <text id="Management-of-document-electronically-between-companies" transform="translate(90.172180, 21.949115) rotate(7.142857) translate(-90.172180, -21.949115) ">
+                        <tspan x="46.990973" y="19.8500851">Management of document </tspan>
+                        <tspan x="8.67797296" y="30.8500851">electronically between companies</tspan>
+                    </text>
+                </g>
+                <g id="Human-activities-consequence:-none" transform="translate(174.000000, 343.000000)">
+                    <path d="M0.895427213,107.84765 C7.64972522,69.553313 22.001074,32.9973553 43.1041987,0.332872725 L88.0434156,29.3492169 C70.8127864,56.0196553 59.0949592,85.8674697 53.580098,117.134665 L0.895427213,107.84765 Z" id="Shape" stroke="#FFFFFF" fill="#C7D929"></path>
+                    <text id="Human-activities-consequence" fill="#000000" transform="translate(40.638958, 59.018456) rotate(19.430000) translate(-40.638958, -59.018456) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="11" font-weight="normal" line-spacing="11" letter-spacing="-1.10000002">
+                        <tspan x="35.7275379" y="53.5184562">Human </tspan>
+                        <tspan x="33.8575381" y="64.5184562">activities </tspan>
+                        <tspan x="14.2005381" y="75.5184562">consequenc</tspan>
+                        <tspan x="58.6075378" y="75.5184562">e</tspan>
+                    </text>
+                </g>
+                <g id="Achievement:-none" transform="translate(217.000000, 209.000000)">
+                    <path d="M0.166225558,134.003951 C53.852828,50.9226607 146.04696,0.741677063 245,0.741677063 L245,54.1986301 C164.205181,54.1986301 88.9289876,95.1712317 45.0940603,163.006821 L0.166225558,134.003951 Z" id="Shape" stroke="#FFFFFF" fill="#4AAF61"></path>
+                    <text id="Achievement" fill="#000000" transform="translate(109.547441, 64.146825) rotate(61.428571) translate(-109.547441, -64.146825) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="11" font-weight="normal" line-spacing="11" letter-spacing="-1.20000005">
+                        <tspan x="85.0474411" y="69.6468254">Achievemen</tspan>
+                        <tspan x="129.389441" y="69.6468254">t</tspan>
+                    </text>
+                </g>
+                <g id="Sharing:-none" transform="translate(462.000000, 164.000000)">
+                    <path d="M1.58799783e-14,0.609383515 C67.6599229,0.609383515 133.750103,21.061628 189.653354,59.2994459 L164.244623,96.6880911 C115.830987,63.5731695 58.595212,45.8610061 1.58799783e-14,45.8610061 L1.58799783e-14,0.609383515 Z" id="Shape" stroke="#FFFFFF" fill="#C8E6A1"></path>
+                    <text id="Sharing" fill="#000000" transform="translate(85.157177, 36.446771) rotate(-72.857143) translate(-85.157177, -36.446771) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="11" font-weight="normal">
+                        <tspan x="67.1571768" y="40.4467707">Sharing</tspan>
+                    </text>
+                </g>
+                <g id="GIS:-1" transform="translate(626.000000, 223.000000)">
+                    <path d="M25.5884766,0.643738453 C34.8659576,6.92605373 43.8221799,13.6640481 52.4237646,20.8326095 L23.3429624,55.2543529 C15.8937716,49.0461966 8.13745549,43.2109223 0.102921264,37.7702777 L25.5884766,0.643738453 Z" id="Shape" stroke="#FFFFFF" fill="#C8E6A1"></path>
+                    <text id="GIS" fill="#000000" transform="translate(24.410363, 29.603691) rotate(-52.857143) translate(-24.410363, -29.603691) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="11" font-weight="normal">
+                        <tspan x="16.4103628" y="33.6036909">GIS</tspan>
+                    </text>
+                </g>
+                <g id="Elementary-flow:-none" transform="translate(649.000000, 243.000000)">
+                    <path d="M29.7708217,0.675612171 C72.8496434,36.8586138 106.184258,83.2698746 126.729359,135.669463 L84.7556904,152.159128 C66.9631105,106.779754 38.0944875,66.5864227 0.78713353,35.2510241 L29.7708217,0.675612171 Z" id="Shape" stroke="#FFFFFF" fill="#C8E6A1"></path>
+                    <text id="Elementary-flow" fill="#000000" transform="translate(65.895267, 67.102076) rotate(-35.714286) translate(-65.895267, -67.102076) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" line-spacing="10" letter-spacing="-0.540000021">
+                        <tspan x="43.6548617" y="66.1020761">Elementary </tspan>
+                        <tspan x="43.6548617" y="76.1020761">flow</tspan>
+                    </text>
+                </g>
+                <g id="Politic:-none" transform="translate(698.000000, 378.000000)">
+                    <path d="M77.1630953,0.670246276 C118.846792,107.265993 103.795921,227.807193 37.1935074,320.783429 L0.637175728,294.405346 C58.3165582,213.885563 71.3509945,109.493822 35.2518543,17.1791976 L77.1630953,0.670246276 Z" id="Shape" stroke="#FFFFFF" fill="#C8E6A1"></path>
+                    <text id="Politic" fill="#000000" transform="translate(73.739411, 157.738261) rotate(7.142857) translate(-73.739411, -157.738261) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="11" font-weight="normal">
+                        <tspan x="59.2394109" y="161.738261">Politic</tspan>
+                    </text>
+                </g>
+                <g id="Race-of-innovation:-1" transform="translate(681.000000, 672.000000)">
+                    <path d="M54.9105705,26.8116803 C48.371422,35.9665291 41.3826928,44.7873967 33.9704293,53.2414085 L0.129058641,23.1810244 C6.54826716,15.8596354 12.6006842,8.22053999 18.2637529,0.292208414 L54.9105705,26.8116803 Z" id="Shape" stroke="#FFFFFF" fill="#C8E6A1"></path>
+                    <text id="Race-of-innovation" fill="#000000" transform="translate(32.273343, 29.678003) rotate(38.571429) translate(-32.273343, -29.678003) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="10" font-weight="normal" line-spacing="11" letter-spacing="-0.363636374">
+                        <tspan x="4.8825872" y="28.6780033">Race of </tspan>
+                        <tspan x="4.8825872" y="39.6780033">innovation</tspan>
+                    </text>
+                </g>
+                <g id="Ecosphere:-1" transform="translate(660.000000, 694.000000)">
+                    <path d="M54.3527829,30.5774636 C46.9734628,38.921683 39.1816752,46.8934256 31.0064595,54.4629813 L0.443309214,21.5929393 C7.52325368,15.0375117 14.2711397,8.13378009 20.6618184,0.907474064 L54.3527829,30.5774636 Z" id="Shape" stroke="#FFFFFF" fill="#C8E6A1"></path>
+                    <text id="Ecosphere" fill="#000000" transform="translate(26.855876, 26.617871) rotate(44.285714) translate(-26.855876, -26.617871) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="10" font-weight="normal" letter-spacing="-0.400000006">
+                        <tspan x="6.8558763" y="30.1178709">Ecosphere</tspan>
+                    </text>
+                </g>
+                <g id="Management:-none" transform="translate(411.000000, 716.000000)">
+                    <path d="M279.64504,33.2765381 C204.522733,103.151848 101.747878,134.931917 0.413640322,119.62055 L7.13766043,74.8995126 C94.8956844,88.1595455 183.90132,60.6371978 248.959146,0.123404759 L279.64504,33.2765381 Z" id="Shape" stroke="#FFFFFF" fill="#C8E6A1"></path>
+                    <text id="Management" fill="#000000" transform="translate(157.740264, 81.643755) rotate(72.857143) translate(-157.740264, -81.643755) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" letter-spacing="-0.899999976">
+                        <tspan x="136.740264" y="85.1437552">Managemen</tspan>
+                        <tspan x="174.900264" y="85.1437552">t</tspan>
+                    </text>
+                </g>
+                <g id="Knowledge:-none" transform="translate(379.000000, 785.000000)">
+                    <path d="M33.4467117,50.404746 C22.2329882,48.7415582 11.1105449,46.5290376 0.120834206,43.7754301 L11.3957267,0.203715431 C20.9130954,2.58840947 30.5454139,4.50450852 40.2567833,5.94487143 L33.4467117,50.404746 Z" id="Shape" stroke="#FFFFFF" fill="#C8E6A1"></path>
+                    <text id="Knowledge" fill="#000000" transform="translate(21.631263, 25.361658) rotate(-78.571429) translate(-21.631263, -25.361658) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="10" font-weight="normal" letter-spacing="-0.5">
+                        <tspan x="0.13126325" y="28.8616584">Knowledge</tspan>
+                    </text>
+                </g>
+                <g id="Administration:-none" transform="translate(316.000000, 764.000000)">
+                    <path d="M62.8053339,64.3375939 C41.188527,58.7970999 20.1751109,51.0985717 0.0775703465,41.3564919 L19.5634811,0.627627946 C36.9684617,9.0645165 55.1666139,15.7316375 73.8873179,20.5298461 L62.8053339,64.3375939 Z" id="Shape" stroke="#FFFFFF" fill="#C8E6A1"></path>
+                    <text id="Administration" fill="#000000" transform="translate(34.350732, 32.614656) rotate(-70.000000) translate(-34.350732, -32.614656) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" letter-spacing="-1">
+                        <tspan x="13.3507324" y="36.1146558">Administration</tspan>
+                    </text>
+                </g>
+                <g id="Flow-circulation:-1" transform="translate(285.000000, 751.000000)">
+                    <path d="M30.8736998,54.5468315 C20.8038525,49.6938252 10.9821438,44.3412112 1.44517852,38.5089384 L24.9267864,0.0542788812 C33.1860406,5.10517529 41.6918898,9.74067494 50.4126334,13.9435017 L30.8736998,54.5468315 Z" id="Shape" stroke="#FFFFFF" fill="#C8E6A1"></path>
+                    <text id="Flow-circulation" fill="#000000" transform="translate(23.035490, 32.388954) rotate(-61.428571) translate(-23.035490, -32.388954) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="10" font-weight="normal" line-spacing="11" letter-spacing="-0.363636374">
+                        <tspan x="26.2847801" y="30.7089307">Flow </tspan>
+                        <tspan x="4.31023468" y="41.7089307">circulation</tspan>
+                    </text>
+                </g>
+                <g id="Governance:-none" transform="translate(209.000000, 695.000000)">
+                    <path d="M77.2663007,95.4649412 C48.6136553,77.8435006 22.7470048,55.9997521 0.528263133,30.6615607 L34.2860748,0.679255525 C53.5280696,22.6227729 75.929246,41.5400141 100.743165,56.8006293 L77.2663007,95.4649412 Z" id="Shape" stroke="#FFFFFF" fill="#C8E6A1"></path>
+                    <text id="Governance" fill="#000000" transform="translate(48.477829, 46.265053) rotate(-50.000000) translate(-48.477829, -46.265053) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="10" font-weight="normal" letter-spacing="-1">
+                        <tspan x="28.3678287" y="49.7650528">Governanc</tspan>
+                        <tspan x="64.5178287" y="49.7650528">e</tspan>
+                    </text>
+                </g>
+                <g id="Finance:-none" transform="translate(169.000000, 647.000000)">
+                    <path d="M39.7702119,78.038747 C24.9864046,61.1767011 11.9116257,42.8714241 0.740306632,23.3951287 L39.6967491,0.755988535 C49.3713952,17.6229551 60.6944859,33.47579 73.4976385,48.0787501 L39.7702119,78.038747 Z" id="Shape" stroke="#FFFFFF" fill="#C8E6A1"></path>
+                    <text id="Finance" fill="#000000" transform="translate(39.159873, 34.587990) rotate(-35.714286) translate(-39.159873, -34.587990) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="11" font-weight="normal">
+                        <tspan x="16.7356308" y="38.8165613">Finance</tspan>
+                    </text>
+                </g>
+                <g id="Innovation:-none" transform="translate(133.000000, 566.000000)">
+                    <path d="M36.9829567,104.695004 C20.041897,75.4382773 7.59423987,43.8151732 0.0547590157,10.8794192 L44.3457289,0.799939854 C50.8751108,29.3231396 61.6550982,56.7095511 76.3264862,82.0466198 L36.9829567,104.695004 Z" id="Shape" stroke="#FFFFFF" fill="#C8E6A1"></path>
+                    <text id="Innovation" fill="#000000" transform="translate(35.092287, 46.609297) rotate(-21.428571) translate(-35.092287, -46.609297) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal">
+                        <tspan x="14.5922875" y="50.1092966">Innovation</tspan>
+                    </text>
+                </g>
+                <g id="Communication:-none" transform="translate(124.000000, 476.000000)">
+                    <path d="M9.38789177,100.591575 C1.87602806,67.8544811 -0.660799572,34.182385 1.8619396,0.697289369 L46.9989579,4.0619035 C44.8142017,33.060847 47.0111589,62.2217376 53.5166237,90.5728926 L9.38789177,100.591575 Z" id="Shape" stroke="#FFFFFF" fill="#C8E6A1"></path>
+                    <text id="Communication" fill="#000000" transform="translate(34.702034, 46.825761) rotate(-4.285714) translate(-34.702034, -46.825761) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="8" font-weight="normal" line-spacing="12" letter-spacing="-0.889999986">
+                        <tspan x="2.35793992" y="48.825761">Communication</tspan>
+                    </text>
+                </g>
+                <g id="Urbanization:-1" transform="translate(110.000000, 417.000000)" fill="#C7D929" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" line-spacing="11">
+                    <text id="Urbanization" transform="translate(32.421558, 12.482773) rotate(12.857143) translate(-32.421558, -12.482773) ">
+                        <tspan x="0.421558327" y="17.9827734">Urbanization</tspan>
+                    </text>
+                </g>
+                <g id="Production-&amp;-energy-consumption:-1" transform="translate(45.000000, 358.000000)" fill="#C7D929" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" line-spacing="11">
+                    <text id="Production-&amp;-energy-consumption" transform="translate(69.359050, 31.399070) rotate(17.571429) translate(-69.359050, -31.399070) ">
+                        <tspan x="33.8213188" y="29.3000403">Production &amp; energy </tspan>
+                        <tspan x="69.5713188" y="40.3000403">consumption</tspan>
+                    </text>
+                </g>
+                <g id="Manufacturing-of-goods:-1" transform="translate(101.000000, 332.000000)" fill="#C7D929" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" line-spacing="11">
+                    <text id="Manufacturing-of-goods" transform="translate(47.559463, 29.444833) rotate(24.285714) translate(-47.559463, -29.444833) ">
+                        <tspan x="6.24487908" y="27.3458039">Manufacturing of </tspan>
+                        <tspan x="60.4858791" y="38.3458039">goods</tspan>
+                    </text>
+                </g>
+                <g id="Transportation-of-goods-and-people:-1" transform="translate(102.000000, 288.000000)" fill="#C7D929" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" line-spacing="11">
+                    <text id="Transportation-of-goods-and-people" transform="translate(54.975663, 37.977818) rotate(30.000000) translate(-54.975663, -37.977818) ">
+                        <tspan x="20.0317151" y="35.8787886">Transportation of </tspan>
+                        <tspan x="20.6807151" y="46.8787886">goods and people</tspan>
+                    </text>
+                </g>
+                <g id="Form:-none" transform="translate(178.000000, 164.000000)">
+                    <path d="M0.502714622,154.720403 C62.6673652,58.640151 169.420554,0.607812938 284,0.607812938 L284,45.7428077 C184.771289,45.7428077 92.3203156,96.0002867 38.484149,179.208225 L0.502714622,154.720403 Z" id="Shape" stroke="#FFFFFF" fill="#69BF7D"></path>
+                    <text id="Form" fill="#000000" transform="translate(112.934796, 78.094857) rotate(59.428571) translate(-112.934796, -78.094857) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="11" font-weight="normal">
+                        <tspan x="98.2840023" y="82.3448574">Form</tspan>
+                    </text>
+                </g>
+                <g id="Knowledge-sharing:-1" transform="translate(462.000000, 107.000000)">
+                    <path d="M0,17.9680843 C12.4424578,17.9680843 24.8771725,18.592758 37.2578009,19.8397771 L33.3243902,59.4069059 C22.2508195,58.291538 11.1288726,57.7328129 0,57.7328129 L0,17.9680843 Z" id="Shape" stroke="#FFFFFF" fill="#A7C480"></path>
+                    <text id="Knowledge-sharing" fill="#000000" transform="translate(17.366422, 29.091974) rotate(-87.142857) translate(-17.366422, -29.091974) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="8" font-weight="normal" line-spacing="10" letter-spacing="-0.160000011">
+                        <tspan x="-10.3208273" y="27.0919736">Knowledge </tspan>
+                        <tspan x="-10.3208273" y="37.0919736">sharing</tspan>
+                    </text>
+                </g>
+                <g id="Information-sharing:-none" transform="translate(495.000000, 116.000000)">
+                    <path d="M4.89434197,11.2395897 C55.0665959,16.2490859 103.726939,31.2259421 148.009344,55.288042 L128.927672,90.2511292 C89.3202849,68.7293328 45.7971508,55.3336254 0.92172263,50.8529958 L4.89434197,11.2395897 Z" id="Shape" stroke="#FFFFFF" fill="#A7C480"></path>
+                    <text id="Information-sharing" fill="#000000" transform="translate(71.634442, 32.380020) rotate(-72.857143) translate(-71.634442, -32.380020) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" line-spacing="10" letter-spacing="-0.680000007">
+                        <tspan x="40.8335776" y="31.3800204">Information </tspan>
+                        <tspan x="40.8335776" y="41.3800204">sharing</tspan>
+                    </text>
+                </g>
+                <g id="Value-sharing:-1" transform="translate(623.000000, 166.000000)">
+                    <path d="M19.6570566,5.31568239 C30.6072962,11.2952474 41.2532964,17.8187553 51.5553805,24.8618936 L29.254668,57.6608916 C20.0402039,51.3613172 10.5181318,45.5265143 0.723939812,40.1782288 L19.6570566,5.31568239 Z" id="Shape" stroke="#FFFFFF" fill="#A7C480"></path>
+                    <text id="Value-sharing" fill="#000000" transform="translate(28.482053, 24.768259) rotate(-58.571429) translate(-28.482053, -24.768259) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="10" font-weight="normal" line-spacing="10" letter-spacing="-0.200000003">
+                        <tspan x="5.56617787" y="24.768259">Value </tspan>
+                        <tspan x="5.56617787" y="34.768259">sharin</tspan>
+                        <tspan x="30.4361779" y="34.768259">g</tspan>
+                    </text>
+                </g>
+                <g id="Emission:-none" transform="translate(678.000000, 213.000000)">
+                    <path d="M26.1103985,0.590831739 C74.3213905,41.1661403 111.627305,93.2113313 134.620035,151.971782 L97.6040931,166.543095 C77.03877,113.98615 43.6713458,67.4355165 0.550123643,31.1438573 L26.1103985,0.590831739 Z" id="Shape" stroke="#FFFFFF" fill="#A7C480"></path>
+                    <text id="Emission" fill="#000000" transform="translate(75.274809, 76.845203) rotate(-35.714286) translate(-75.274809, -76.845203) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="10" font-weight="normal" letter-spacing="-0.5">
+                        <tspan x="53.7454866" y="80.3452026">Emission</tspan>
+                    </text>
+                </g>
+                <g id="Economic-activities-for-local-employment:-1" transform="translate(779.000000, 352.000000)" fill="#C8E6A1" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="10" font-weight="bold" line-spacing="11">
+                    <text id="Economic-activities-for-local-employment" transform="translate(50.702249, 26.285186) rotate(-18.571429) translate(-50.702249, -26.285186) ">
+                        <tspan x="0.910568185" y="25.2851865">Economic activities </tspan>
+                        <tspan x="0.910568185" y="36.2851865">for local employment</tspan>
+                    </text>
+                </g>
+                <g id="Wealth-creation:-none" transform="translate(786.000000, 400.000000)">
+                    <path d="M38.971043,0.361547981 C56.0649448,61.0253875 57.6627557,124.999091 43.6185066,186.438298 L4.74031336,177.577968 C17.3018716,122.62507 15.8727461,65.4052508 0.583495531,11.1458632 L38.971043,0.361547981 Z" id="Shape" stroke="#FFFFFF" fill="#A7C480"></path>
+                    <text id="Wealth-creation" fill="#FFFFFF" transform="translate(46.044968, 76.789826) rotate(-1.428571) translate(-46.044968, -76.789826) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="10" font-weight="bold" line-spacing="10">
+                        <tspan x="14.2394212" y="76.7898261">Wealth </tspan>
+                        <tspan x="14.2394212" y="86.7898261">creation</tspan>
+                    </text>
+                </g>
+                <g id="Ecological-impact:-none" transform="translate(736.000000, 576.000000)">
+                    <path d="M93.6066408,9.54769986 C82.4517712,58.4575992 61.6297442,104.639097 32.3669487,145.372166 L0.160174034,122.199437 C26.333614,85.7666721 44.9574011,44.4606848 54.9346198,0.714340921 L93.6066408,9.54769986 Z" id="Shape" stroke="#FFFFFF" fill="#A7C480"></path>
+                    <text id="Ecological-impact" fill="#FFFFFF" transform="translate(63.452077, 70.279552) rotate(24.285714) translate(-63.452077, -70.279552) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="9" font-weight="bold" line-spacing="10" letter-spacing="-0.479999989">
+                        <tspan x="35.0158366" y="69.2795524">Ecological </tspan>
+                        <tspan x="35.0158366" y="79.2795524">impact</tspan>
+                    </text>
+                </g>
+                <g id="Coordination:-none" transform="translate(638.000000, 749.000000)">
+                    <path d="M80.6917655,29.5861264 C62.318392,46.5493098 42.289246,61.6453183 20.9021754,74.6496633 L0.167446077,40.8875933 C19.2966235,29.2561535 37.2112363,15.7538731 53.6448812,0.581540627 L80.6917655,29.5861264 Z" id="Shape" stroke="#FFFFFF" fill="#A7C480"></path>
+                    <text id="Coordination" fill="#000000" transform="translate(41.552240, 35.968841) rotate(52.857143) translate(-41.552240, -35.968841) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="8" font-weight="normal" letter-spacing="-0.799999952">
+                        <tspan x="24.0522397" y="38.9688409">Coordination</tspan>
+                    </text>
+                </g>
+                <g id="Group-management:-1" transform="translate(614.000000, 795.000000)" fill="#C8E6A1" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="10" font-weight="bold" line-spacing="10">
+                    <text id="Group-management" transform="translate(28.225016, 40.085589) rotate(61.428571) translate(-28.225016, -40.085589) ">
+                        <tspan x="-11.9733239" y="40.0855892">Group </tspan>
+                        <tspan x="-11.9733239" y="50.0855892">management</tspan>
+                    </text>
+                </g>
+                <g id="Business-creation:-1" transform="translate(586.000000, 810.000000)" fill="#C8E6A1" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="10" font-weight="bold" line-spacing="10">
+                    <text id="Business-creation" transform="translate(23.992199, 37.077765) rotate(67.142857) translate(-23.992199, -37.077765) ">
+                        <tspan x="-12.0298027" y="37.0777655">Business </tspan>
+                        <tspan x="-12.0298027" y="47.0777655">creation</tspan>
+                    </text>
+                </g>
+                <g id="Knowledge-management:-1" transform="translate(545.000000, 818.000000)">
+                    <path d="M45.5933583,37.7406758 C33.851038,42.0203107 21.9028586,45.7108201 9.79334999,48.7984499 L0.00335902009,10.2987403 C10.8344328,7.53708034 21.5212093,4.23618836 32.0238599,0.408366551 L45.5933583,37.7406758 Z" id="Shape" stroke="#FFFFFF" fill="#A7C480"></path>
+                    <text id="Knowledge-management" fill="#000000" transform="translate(26.871173, 36.708698) rotate(72.857143) translate(-26.871173, -36.708698) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="8" font-weight="normal" line-spacing="9" letter-spacing="-0.720000029">
+                        <tspan x="-4.58210938" y="35.7086978">Knowledge </tspan>
+                        <tspan x="-4.58210938" y="44.7086978">managemen</tspan>
+                        <tspan x="30.8738904" y="44.7086978">t</tspan>
+                    </text>
+                </g>
+                <g id="Commercial-management:-1" transform="translate(519.000000, 832.000000)" fill="#C8E6A1" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="10" font-weight="bold" line-spacing="10">
+                    <text id="Commercial-management" transform="translate(18.665278, 45.826932) rotate(78.571429) translate(-18.665278, -45.826932) ">
+                        <tspan x="-26.0671245" y="45.8269315">Commercial </tspan>
+                        <tspan x="-26.0671245" y="55.8269315">management</tspan>
+                    </text>
+                </g>
+                <g id="Retain/Empower-employees:-1" transform="translate(487.000000, 838.000000)" fill="#C8E6A1" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="10" font-weight="bold" letter-spacing="-0.5" line-spacing="10">
+                    <text id="Retain/Empower-employees" transform="translate(13.675708, 38.225447) rotate(84.285714) translate(-13.675708, -38.225447) ">
+                        <tspan x="-23.7399878" y="38.2254473">Retain/Empower </tspan>
+                        <tspan x="-23.7399878" y="48.2254473">employee</tspan>
+                        <tspan x="15.5600122" y="48.2254473">s</tspan>
+                    </text>
+                </g>
+                <g id="Decision-making:-1" transform="translate(443.000000, 838.000000)">
+                    <path d="M37.6520865,40.5106833 C25.2250956,41.1332771 12.7749044,41.1332771 0.347913543,40.5106833 L2.3170667,0.903014905 C13.4321052,1.45987972 24.5678948,1.45987972 35.6829333,0.903014905 L37.6520865,40.5106833 Z" id="Shape" stroke="#FFFFFF" fill="#A7C480"></path>
+                    <text id="Decision-making" fill="#000000" transform="translate(19.000000, 32.223102) rotate(90.000000) translate(-19.000000, -32.223102) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="10" font-weight="normal" line-spacing="10">
+                        <tspan x="-9.22310205" y="32.2231021">Decision </tspan>
+                        <tspan x="-9.22310205" y="42.2231021">making</tspan>
+                    </text>
+                </g>
+                <g id="Project-management:-1" transform="translate(410.000000, 838.000000)" fill="#C8E6A1" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="10" font-weight="bold" line-spacing="10">
+                    <text id="Project-management" transform="translate(14.174089, 43.206016) scale(-1, -1) rotate(-84.285714) translate(-14.174089, -43.206016) ">
+                        <tspan x="-28.2470486" y="43.206016">Project </tspan>
+                        <tspan x="-28.2470486" y="53.206016">management</tspan>
+                    </text>
+                </g>
+                <g id="Health,-culture,-social-service:-1" transform="translate(329.000000, 823.000000)" fill="#C8E6A1" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="10" font-weight="bold" line-spacing="10">
+                    <text id="Health,-culture,-social-service" transform="translate(20.090972, 37.101975) rotate(-72.857143) translate(-20.090972, -37.101975) ">
+                        <tspan x="-15.6513833" y="37.1019748">Health, culture, </tspan>
+                        <tspan x="-5.15138332" y="47.1019748">social service</tspan>
+                    </text>
+                </g>
+                <g id="Administration-of-economic-service:-1" transform="translate(285.000000, 809.000000)" fill="#C8E6A1" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="10" font-weight="bold" line-spacing="10">
+                    <text id="Administration-of-economic-service" transform="translate(24.699995, 40.619661) rotate(-67.142857) translate(-24.699995, -40.619661) ">
+                        <tspan x="-15.1657256" y="40.6196615">Administration of </tspan>
+                        <tspan x="-13.8857256" y="50.6196615">economic service</tspan>
+                    </text>
+                </g>
+                <g id="Consideration-of-societal:-1" transform="translate(215.000000, 774.000000)" fill="#C8E6A1" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" line-spacing="11">
+                    <text id="Consideration-of-societal" transform="translate(31.053118, 38.412513) rotate(-55.714286) translate(-31.053118, -38.412513) ">
+                        <tspan x="-3.00674026" y="36.3134839">Consideration </tspan>
+                        <tspan x="15.3412597" y="47.3134839">of societal</tspan>
+                    </text>
+                </g>
+                <g id="Consideration-of-environment:-1" transform="translate(184.000000, 754.000000)" fill="#C8E6A1" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" line-spacing="11">
+                    <text id="Consideration-of-environment" transform="translate(33.340996, 36.762617) rotate(-50.000000) translate(-33.340996, -36.762617) ">
+                        <tspan x="1.63190353" y="36.7626173">Consideration </tspan>
+                        <tspan x="-5.41909647" y="47.7626173">of environment</tspan>
+                    </text>
+                </g>
+                <g id="Consideration-of-stakeholder:-1" transform="translate(156.000000, 730.000000)" fill="#C8E6A1" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" line-spacing="11">
+                    <text id="Consideration-of-stakeholder" transform="translate(33.977825, 33.524120) rotate(-44.285714) translate(-33.977825, -33.524120) ">
+                        <tspan x="-1.00796716" y="33.5241195">Consideration </tspan>
+                        <tspan x="-2.75696716" y="44.5241195">of stakeholder</tspan>
+                    </text>
+                </g>
+                <g id="Process-of-operation-&amp;-investment:-none" transform="translate(135.000000, 670.000000)">
+                    <path d="M44.0897247,81.6787869 C27.5050851,62.8286358 12.8376526,42.3650906 0.305542511,20.5924592 L34.7428077,0.649292594 C45.9518677,20.1233261 59.0708182,38.4264773 73.9045707,55.2865651 L44.0897247,81.6787869 Z" id="Shape" stroke="#FFFFFF" fill="#A7C480"></path>
+                    <text id="Process-of-operation" fill="#FFFFFF" transform="translate(34.372435, 38.029224) rotate(-35.714286) translate(-34.372435, -38.029224) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="9" font-weight="bold" line-spacing="8" letter-spacing="-0.699999988">
+                        <tspan x="18.4866593" y="31.0292239">Process of </tspan>
+                        <tspan x="19.2446593" y="39.0292239">operation </tspan>
+                        <tspan x="46.4406594" y="47.0292239">&amp; </tspan>
+                        <tspan x="16.5906594" y="55.0292239" letter-spacing="-1">investment</tspan>
+                    </text>
+                </g>
+                <g id="R&amp;D:-none" transform="translate(118.000000, 640.000000)">
+                    <path d="M18.098227,50.3234835 C11.8212648,39.3967641 6.09047103,28.1621941 0.927203846,16.6616438 L37.2586741,0.185777696 C41.8768407,10.4721826 47.0026185,20.5206874 52.6169041,30.2938424 L18.098227,50.3234835 Z" id="Shape" stroke="#FFFFFF" fill="#A7C480"></path>
+                    <text id="R&amp;D" fill="#FFFFFF" transform="translate(28.143902, 24.224532) rotate(-27.142857) translate(-28.143902, -24.224532) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold">
+                        <tspan x="14.6119872" y="28.4245321">R&amp;D</tspan>
+                    </text>
+                </g>
+                <g id="Park-of-Technology-&amp;-scientific-activities:-1" transform="translate(36.000000, 616.000000)" fill="#C8E6A1" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" letter-spacing="-0.200000003" line-spacing="12">
+                    <text id="Park-of-Technology-&amp;-scientific-activities" transform="translate(56.354103, 31.567211) rotate(-21.428571) translate(-56.354103, -31.567211) ">
+                        <tspan x="9.34038171" y="29.4681814">Park of Technology &amp; </tspan>
+                        <tspan x="20.0653817" y="41.4681814">scientific activitie</tspan>
+                        <tspan x="102.283382" y="41.4681814">s</tspan>
+                    </text>
+                </g>
+                <g id="UTT:-1" transform="translate(113.000000, 588.000000)" fill="#C8E6A1" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" letter-spacing="-0.200000003">
+                    <text id="UTT" transform="translate(11.522126, 9.446774) rotate(-15.714286) translate(-11.522126, -9.446774) ">
+                        <tspan x="1.52212575" y="13.4467744">UT</tspan>
+                        <tspan x="14.5531257" y="13.4467744">T</tspan>
+                    </text>
+                </g>
+                <g id="Web-mastering-&amp;-community-management:-1" transform="translate(0.000000, 543.000000)" fill="#C8E6A1" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" line-spacing="11">
+                    <text id="Web-mastering-&amp;-community-management" transform="translate(63.018903, 21.608011) rotate(-10.000000) translate(-63.018903, -21.608011) ">
+                        <tspan x="40.9414286" y="21.6080107">Web mastering &amp; </tspan>
+                        <tspan x="0.967428628" y="32.6080107">community management</tspan>
+                    </text>
+                </g>
+                <g id="Social-network:-1" transform="translate(48.000000, 517.000000)" fill="#C8E6A1" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold">
+                    <text id="Social-network" transform="translate(36.921049, 9.708075) rotate(-4.285714) translate(-36.921049, -9.708075) ">
+                        <tspan x="0.421049252" y="13.708075">Social network</tspan>
+                    </text>
+                </g>
+                <g id="Marketing-as-a-tool:-1" transform="translate(29.000000, 485.000000)" fill="#C8E6A1" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold">
+                    <text id="Marketing-as-a-tool" transform="translate(46.160217, 8.144636) rotate(1.428571) translate(-46.160217, -8.144636) ">
+                        <tspan x="0.160217214" y="12.1446361">Marketing as a tool</tspan>
+                    </text>
+                </g>
+                <g id="Capability:-1" transform="translate(145.000000, 267.000000)">
+                    <path d="M0.842881423,30.8439428 C7.59349041,20.2983209 14.8612108,10.0989772 22.6189563,0.283923906 L53.5050749,25.1354387 C46.5663363,33.9142893 40.0658896,43.0368596 34.0279614,52.4691506 L0.842881423,30.8439428 Z" id="Shape" stroke="#FFFFFF" fill="#91C99E"></path>
+                    <text id="Capability" fill="#000000" transform="translate(26.876124, 27.244065) rotate(35.714286) translate(-26.876124, -27.244065) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="10" font-weight="normal" line-spacing="11" letter-spacing="-1">
+                        <tspan x="10.376124" y="31.7440652">Capabilit</tspan>
+                        <tspan x="38.956124" y="31.7440652" letter-spacing="-0.909090936">y</tspan>
+                    </text>
+                </g>
+                <g id="Service-of-council-advisement:-none" transform="translate(167.000000, 126.000000)">
+                    <path d="M0.267637543,140.44336 C63.5364962,61.1777501 156.153292,10.7864871 257.124408,0.691848781 L261.081808,40.2047016 C170.770496,49.2336206 87.9315161,94.3049365 31.3421287,165.202253 L0.267637543,140.44336 Z" id="Shape" stroke="#FFFFFF" fill="#91C99E"></path>
+                    <text id="Service-of-council-advisement" fill="#000000" transform="translate(125.855681, 58.623791) rotate(61.428571) translate(-125.855681, -58.623791) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" line-spacing="11" letter-spacing="-0.899999976">
+                        <tspan x="117.448571" y="51.1237905">Service of </tspan>
+                        <tspan x="124.243572" y="62.1237905">council </tspan>
+                        <tspan x="110.095571" y="73.1237905">advisement</tspan>
+                    </text>
+                </g>
+                <g id="Democracy:-1" transform="translate(424.000000, 124.000000)">
+                    <path d="M0.742199112,2.40935654 C13.1228275,1.16711521 25.5575422,0.544834956 38,0.544834956 L38,40.1572083 C26.8711274,40.1572083 15.7491805,40.7137927 4.67560981,41.8248871 L0.742199112,2.40935654 Z" id="Shape" stroke="#FFFFFF" fill="#91C99E"></path>
+                    <text id="Democracy" fill="#000000" transform="translate(19.365466, 20.752398) rotate(87.142857) translate(-19.365466, -20.752398) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" line-spacing="11" letter-spacing="-0.899999976">
+                        <tspan x="2.71946585" y="24.2523985">Democracy</tspan>
+                    </text>
+                </g>
+                <g id="Telecommunication:-1" transform="translate(505.000000, 59.000000)" fill="#A7C480" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="9" font-weight="bold" letter-spacing="-0.680000007" line-spacing="10">
+                    <text id="Telecommunication" transform="translate(9.937070, 33.904552) rotate(-81.428571) translate(-9.937070, -33.904552) ">
+                        <tspan x="-23.56293" y="37.9045515">Telecommunication</tspan>
+                    </text>
+                </g>
+                <g id="Club-d'écologie-industrielle-de-l'Aube:-1" transform="translate(530.000000, 47.000000)" fill="#A7C480" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="10" font-weight="bold" letter-spacing="-0.5" line-spacing="10">
+                    <text id="Club-d'écologie-industrielle-de-l'Aube" transform="translate(20.207187, 43.768133) rotate(-75.714286) translate(-20.207187, -43.768133) ">
+                        <tspan x="-22.4112493" y="43.768133">Club d'écologie </tspan>
+                        <tspan x="-22.4112493" y="53.768133">industrielle de l'Aube</tspan>
+                    </text>
+                </g>
+                <g id="Internet-site:-1" transform="translate(575.000000, 91.000000)" fill="#A7C480" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="10" font-weight="bold" letter-spacing="-0.200000003" line-spacing="10">
+                    <text id="Internet-site" transform="translate(13.590987, 26.323031) rotate(-70.000000) translate(-13.590987, -26.323031) ">
+                        <tspan x="-12.4090132" y="31.323031">Internet site</tspan>
+                    </text>
+                </g>
+                <g id="Information-service-:-1" transform="translate(608.000000, 86.000000)" fill="#A7C480" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="10" font-weight="bold" letter-spacing="-0.200000003" line-spacing="10">
+                    <text id="Information-service" transform="translate(24.758786, 37.911071) rotate(-64.285714) translate(-24.758786, -37.911071) ">
+                        <tspan x="-11.5391805" y="37.9110711">Information </tspan>
+                        <tspan x="-11.5391805" y="47.9110711">service</tspan>
+                    </text>
+                </g>
+                <g id="Water:-1" transform="translate(714.000000, 198.000000)" fill="#A7C480" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold">
+                    <text id="Water" transform="translate(14.993868, 15.390461) rotate(-47.142857) translate(-14.993868, -15.390461) ">
+                        <tspan x="0.4938678" y="19.3904613">Water</tspan>
+                    </text>
+                </g>
+                <g id="Air:-none" transform="translate(731.000000, 214.000000)">
+                    <path d="M26.4966575,0.0265289161 C55.2832098,29.5086921 79.4838972,63.1341783 98.2923181,99.782538 L66.3013709,116.165984 C49.1317102,82.7107621 27.0396062,52.0150333 0.761199479,25.1016237 L26.4966575,0.0265289161 Z" id="Shape" stroke="#FFFFFF" fill="#92B564"></path>
+                    <text id="Air" fill="#FFFFFF" transform="translate(47.747958, 53.400236) rotate(-35.714286) translate(-47.747958, -53.400236) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold">
+                        <tspan x="40.7479577" y="57.4002362">Air</tspan>
+                    </text>
+                </g>
+                <g id="Soil:-1" transform="translate(804.000000, 331.000000)" fill="#A7C480" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold">
+                    <text id="Soil" transform="translate(11.538315, 10.287768) rotate(-24.285714) translate(-11.538315, -10.287768) ">
+                        <tspan x="2.03831532" y="14.2877684">Soil</tspan>
+                    </text>
+                </g>
+                <g id="Work-factor:-none" transform="translate(825.000000, 389.000000)">
+                    <path d="M34.5686147,0.746002466 C41.9629268,27.0588057 46.7155366,54.0448665 48.7557696,81.3028826 L13.1087704,83.9774939 C11.246301,59.0944434 6.90778164,34.459653 0.157729081,10.4394599 L34.5686147,0.746002466 Z" id="Shape" stroke="#FFFFFF" fill="#92B564"></path>
+                    <text id="Work-factor" fill="#FFFFFF" transform="translate(29.590456, 40.245232) rotate(-10.000000) translate(-29.590456, -40.245232) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" line-spacing="10">
+                        <tspan x="9.43020222" y="41.2452323">Work </tspan>
+                        <tspan x="9.43020222" y="51.2452323">factor</tspan>
+                    </text>
+                </g>
+                <g id="Capital-factor:-none" transform="translate(835.000000, 470.000000)">
+                    <path d="M38.5224265,0.663842371 C40.5673431,27.9613247 39.8834439,55.3948348 36.4808988,82.5564163 L0.929941803,78.0996763 C4.03602627,53.3046581 4.66033801,28.2614043 2.79359306,3.34232619 L38.5224265,0.663842371 Z" id="Shape" stroke="#FFFFFF" fill="#92B564"></path>
+                    <text id="Capital-factor" fill="#FFFFFF" transform="translate(31.416875, 39.674409) rotate(1.428571) translate(-31.416875, -39.674409) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" line-spacing="10">
+                        <tspan x="4.24086012" y="40.6744087">Capital </tspan>
+                        <tspan x="4.24086012" y="50.6744087">factor</tspan>
+                    </text>
+                </g>
+                <g id="Natural-resource:-1" transform="translate(833.000000, 555.000000)" fill="#A7C480" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" line-spacing="10">
+                    <text id="Natural-resource" transform="translate(39.373177, 16.484442) rotate(10.000000) translate(-39.373177, -16.484442) ">
+                        <tspan x="1.15587509" y="17.4844424">Natural </tspan>
+                        <tspan x="1.15587509" y="27.4844424">resource</tspan>
+                    </text>
+                </g>
+                <g id="Rubbish-production:-1" transform="translate(823.000000, 594.000000)" fill="#A7C480" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" line-spacing="10">
+                    <text id="Rubbish-production" transform="translate(44.575007, 21.323636) rotate(15.714286) translate(-44.575007, -21.323636) ">
+                        <tspan x="1.38576973" y="22.3236357">Rubbish </tspan>
+                        <tspan x="1.38576973" y="32.3236357">production</tspan>
+                    </text>
+                </g>
+                <g id="Climate-change:-1" transform="translate(811.000000, 639.000000)" fill="#A7C480" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" line-spacing="10">
+                    <text id="Climate-change" transform="translate(36.734471, 18.354657) rotate(21.428571) translate(-36.734471, -18.354657) ">
+                        <tspan x="-0.765529304" y="24.3546572">Climate change</tspan>
+                    </text>
+                </g>
+                <g id="Water-consumption:-1" transform="translate(794.000000, 667.000000)" fill="#A7C480" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" line-spacing="10">
+                    <text id="Water-consumption" transform="translate(42.763076, 28.483212) rotate(27.142857) translate(-42.763076, -28.483212) ">
+                        <tspan x="-0.16554476" y="29.4832123">Water </tspan>
+                        <tspan x="-0.16554476" y="39.4832123">consumption</tspan>
+                    </text>
+                </g>
+                <g id="Energy-consumption:-1" transform="translate(772.000000, 701.000000)" fill="#A7C480" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" line-spacing="10">
+                    <text id="Energy-consumption" transform="translate(34.986915, 28.593409) rotate(34.857143) translate(-34.986915, -28.593409) ">
+                        <tspan x="-0.684934856" y="29.5934086">Energy </tspan>
+                        <tspan x="-0.684934856" y="39.5934086">consumption</tspan>
+                    </text>
+                </g>
+                <g id="Balance:-1" transform="translate(689.000000, 778.000000)">
+                    <path d="M53.3940181,26.8373178 C43.3367657,36.1690843 32.8203328,44.9934192 21.8839132,53.2774351 L0.177106867,24.6204716 C10.1606463,17.0582343 19.7607922,9.00275542 28.9417655,0.484057076 L53.3940181,26.8373178 Z" id="Shape" stroke="#FFFFFF" fill="#92B564"></path>
+                    <text id="Balance" fill="#000000" transform="translate(26.855059, 26.025999) rotate(50.000000) translate(-26.855059, -26.025999) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal">
+                        <tspan x="11.8550586" y="29.5259985">Balance</tspan>
+                    </text>
+                </g>
+                <g id="Hierarchical:-1" transform="translate(658.000000, 802.000000)">
+                    <path d="M53.2628613,29.4542822 C42.3512409,37.7221499 31.0341671,45.4404614 19.3538177,52.5804511 L0.650696576,21.9643875 C11.313348,15.4464984 21.6443756,8.40067626 31.6052767,0.853180191 L53.2628613,29.4542822 Z" id="Shape" stroke="#FFFFFF" fill="#92B564"></path>
+                    <text id="Hierarchical" fill="#000000" transform="translate(27.144315, 25.036421) rotate(55.714286) translate(-27.144315, -25.036421) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="8" font-weight="normal" letter-spacing="-0.711111128">
+                        <tspan x="11.1443148" y="28.0364207">Hierarchical</tspan>
+                    </text>
+                </g>
+                <g id="Investment-funds:-1" transform="translate(94.000000, 723.000000)" fill="#A7C480" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" line-spacing="11">
+                    <text id="Investment-funds" transform="translate(36.769236, 32.453252) rotate(-38.571429) translate(-36.769236, -32.453252) ">
+                        <tspan x="14.5376462" y="30.354222">Investment </tspan>
+                        <tspan x="42.5326462" y="41.354222">funds</tspan>
+                    </text>
+                </g>
+                <g id="Financial-service:-1" transform="translate(81.000000, 697.000000)" fill="#A7C480" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" line-spacing="11">
+                    <text id="Financial-service" transform="translate(33.941674, 27.307593) rotate(-32.857143) translate(-33.941674, -27.307593) ">
+                        <tspan x="17.9186281" y="25.2085639">Financial </tspan>
+                        <tspan x="27.8736281" y="36.2085639">service</tspan>
+                    </text>
+                </g>
+                <g id="Technopôle-de-l'Aube:-1" transform="translate(64.000000, 665.000000)" fill="#A7C480" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" line-spacing="11">
+                    <text id="Technopôle-de-l'Aube" transform="translate(33.707573, 24.526261) rotate(-27.142857) translate(-33.707573, -24.526261) ">
+                        <tspan x="4.80725641" y="22.4272313">Technopôle </tspan>
+                        <tspan x="16.4562564" y="33.4272313">de l'Aube</tspan>
+                    </text>
+                </g>
+                <g id="Financial-support-for-education:-1" transform="translate(104.000000, 181.000000)" fill="#91C99E" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" line-spacing="11">
+                    <text id="Financial-support-fo" transform="translate(41.091385, 38.117217) rotate(41.428571) translate(-41.091385, -38.117217) ">
+                        <tspan x="-3.82424026" y="38.1172173">Financial support </tspan>
+                        <tspan x="16.2507597" y="49.1172173">for education</tspan>
+                    </text>
+                </g>
+                <g id="Legal-wath-on-economic-aid:-1" transform="translate(126.000000, 140.000000)" fill="#91C99E" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" line-spacing="11">
+                    <text id="Legal-watch-on-econo" transform="translate(43.484535, 45.271570) rotate(47.142857) translate(-43.484535, -45.271570) ">
+                        <tspan x="17.345728" y="43.1725403">Legal watch on </tspan>
+                        <tspan x="25.375728" y="54.1725403">economic aid</tspan>
+                    </text>
+                </g>
+                <g id="Departmental-council:-none" transform="translate(196.000000, 97.000000)">
+                    <path d="M0.280978895,88.9247171 C53.0244387,44.6097714 116.016792,14.2345467 183.503331,0.573991561 L190.617386,35.8112539 C129.010886,48.2815775 71.506998,76.0102372 23.3590269,116.464063 L0.280978895,88.9247171 Z" id="Shape" stroke="#FFFFFF" fill="#77A682"></path>
+                    <text id="Depart-mental-counci" fill="#FFFFFF" transform="translate(92.433462, 48.875559) rotate(64.285714) translate(-92.433462, -48.875559) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="10" font-weight="bold" line-spacing="10" letter-spacing="-1">
+                        <tspan x="77.6199652" y="42.7855325">Depart-</tspan>
+                        <tspan x="78.5799652" y="52.7855325">mental </tspan>
+                        <tspan x="79.1799652" y="62.7855325">council</tspan>
+                    </text>
+                </g>
+                <g id="Management-of-aid-to-municipalities-for-school,-sports-and-socio-cultural-facilities:-1" transform="translate(371.000000, 0.000000)" fill="#91C99E" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="9" font-weight="bold" letter-spacing="-0.400000006" line-spacing="9">
+                    <text id="Management-of-aid-to-municipalities-for-school,-sports-and-socio-cultural-facilities" transform="translate(23.197004, 63.540259) rotate(81.428571) translate(-23.197004, -63.540259) ">
+                        <tspan x="2.52228492" y="57.9592345">Management of aid to </tspan>
+                        <tspan x="-33.623715" y="66.9592345">municipalities for school, sports </tspan>
+                        <tspan x="-15.378715" y="75.9592345">and socio-cultural facilities</tspan>
+                    </text>
+                </g>
+                <g id="SO2:-1" transform="translate(768.000000, 210.000000)" fill="#92B564" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold">
+                    <text id="SO2" transform="translate(12.129613, 11.865327) rotate(-41.428571) translate(-12.129613, -11.865327) ">
+                        <tspan x="2.12961289" y="15.8653268">SO2</tspan>
+                    </text>
+                </g>
+                <g id="NO2:-1" transform="translate(794.000000, 241.000000)" fill="#92B564" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold">
+                    <text id="NO2" transform="translate(12.611555, 11.812875) rotate(-35.714286) translate(-12.611555, -11.812875) ">
+                        <tspan x="2.11155477" y="15.8128746">NO2</tspan>
+                    </text>
+                </g>
+                <g id="CO:-1" transform="translate(818.000000, 283.000000)" fill="#92B564" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold">
+                    <text id="CO" transform="translate(9.562178, 9.562178) rotate(-30.000000) translate(-9.562178, -9.562178) ">
+                        <tspan x="2.56217783" y="13.5621778">CO</tspan>
+                    </text>
+                </g>
+                <g id="Human-activities:-none" transform="translate(859.000000, 380.000000)">
+                    <path d="M32.1150185,0.794392672 C40.1254004,29.3031878 45.2739822,58.5414287 47.4842006,88.0743216 L14.6064888,90.5414717 C12.5602241,63.1993259 7.79356365,36.1299748 0.377391051,9.73595926 L32.1150185,0.794392672 Z" id="Shape" stroke="#FFFFFF" fill="#7AA83D"></path>
+                    <text id="Human-activities" fill="#FFFFFF" transform="translate(35.455983, 40.036704) rotate(-10.000000) translate(-35.455983, -40.036704) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="9" font-weight="bold" line-spacing="10" letter-spacing="-0.600000024">
+                        <tspan x="8.5400586" y="39.0367045">Human </tspan>
+                        <tspan x="8.5400586" y="49.0367045">activities</tspan>
+                    </text>
+                </g>
+                <g id="Circulation-fixed-capital:-1" transform="translate(876.000000, 473.000000)" fill="#92B564" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" line-spacing="10">
+                    <text id="Circulation-fixed-capital" transform="translate(36.198177, 11.792898) rotate(-1.428571) translate(-36.198177, -11.792898) ">
+                        <tspan x="0.238129888" y="12.7928977">Circulation </tspan>
+                        <tspan x="0.238129888" y="22.7928977">fixed capital</tspan>
+                    </text>
+                </g>
+                <g id="Circulation-technical-capital:-1" transform="translate(875.000000, 519.000000)" fill="#92B564" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="10" font-weight="bold" line-spacing="10">
+                    <text id="Circulation-technical-capital" transform="translate(43.139095, 13.129927) rotate(4.285714) translate(-43.139095, -13.129927) ">
+                        <tspan x="0.881840145" y="13.1299266">Circulation </tspan>
+                        <tspan x="0.881840145" y="23.1299266">technical capital</tspan>
+                    </text>
+                </g>
+                <g id="Departmental-road:-1" transform="translate(151.000000, 104.000000)" fill="#77A682" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" line-spacing="11">
+                    <text id="Departmental-road" transform="translate(32.887083, 38.482856) rotate(52.857143) translate(-32.887083, -38.482856) ">
+                        <tspan x="0.198517472" y="36.383826">Departmental </tspan>
+                        <tspan x="45.4525175" y="47.383826">road</tspan>
+                    </text>
+                </g>
+                <g id="Tourism:-1" transform="translate(219.000000, 109.000000)" fill="#77A682" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" line-spacing="11">
+                    <text id="Tourism" transform="translate(15.121804, 19.933711) rotate(58.571429) translate(-15.121804, -19.933711) ">
+                        <tspan x="-4.87819608" y="25.4337113">Tourism</tspan>
+                    </text>
+                </g>
+                <g id="Social-action:-1" transform="translate(238.000000, 63.000000)" fill="#77A682" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" line-spacing="11">
+                    <text id="Social-action" transform="translate(22.466826, 35.516739) rotate(63.285714) translate(-22.466826, -35.516739) ">
+                        <tspan x="-9.12967394" y="37.6558044">Social action</tspan>
+                    </text>
+                </g>
+                <g id="Intercity-transport:-1" transform="translate(277.000000, 41.000000)" fill="#77A682" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" line-spacing="11">
+                    <text id="Intercity-transport" transform="translate(22.968257, 38.467363) rotate(70.000000) translate(-22.968257, -38.467363) ">
+                        <tspan x="13.1726968" y="36.3683331">Intercity </tspan>
+                        <tspan x="8.62969685" y="47.3683331">transport</tspan>
+                    </text>
+                </g>
+                <g id="Companies-benefit-from-actions:-1" transform="translate(323.000000, 8.000000)" fill="#77A682" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" line-spacing="11">
+                    <text id="Companies-benefit-from-actions" transform="translate(22.147144, 47.827773) rotate(75.714286) translate(-22.147144, -47.827773) ">
+                        <tspan x="-24.4058422" y="47.8277727">Companies benefit </tspan>
+                        <tspan x="5.44815784" y="58.8277727">from actions</tspan>
+                    </text>
+                </g>
+                <g id="Intellectual:-1" transform="translate(897.000000, 380.000000)" fill="#A7C480" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" line-spacing="10">
+                    <text id="Intellectual" transform="translate(28.410586, 11.215142) rotate(-12.857143) translate(-28.410586, -11.215142) ">
+                        <tspan x="0.410586211" y="17.215142">Intellectual</tspan>
+                    </text>
+                </g>
+                <g id="Manual:-1" transform="translate(906.000000, 432.000000)" fill="#A7C480" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" line-spacing="10">
+                    <text id="Manual" transform="translate(18.482024, 7.950695) rotate(-7.142857) translate(-18.482024, -7.950695) ">
+                        <tspan x="0.482024242" y="13.9506953">Manual</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

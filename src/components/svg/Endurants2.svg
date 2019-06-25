@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="985px" height="861px" viewBox="0 0 985 861" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Endurants2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Endurants2">
+            <g transform="translate(4.000000, 5.000000)">
+                <g id="Non-Agentive-Physical-Object" transform="translate(299.000000, 224.000000)">
+                    <path d="M213.5,0.679876486 C331.037309,0.679876486 426.320124,95.9626913 426.320124,213.5 C426.320124,331.037309 331.037309,426.320124 213.5,426.320124 C95.9626913,426.320124 0.679876486,331.037309 0.679876486,213.5 C0.679876486,95.9626913 95.9626913,0.679876486 213.5,0.679876486 Z" id="Shape" stroke="#FFFFFF" fill="#0077B6"></path>
+                    <text id="Non-agentive-physica" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="40" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="98.52" y="183">Non-agentive </tspan>
+                        <tspan x="76.48" y="233">physical objects</tspan>
+                    </text>
+                </g>
+                <g id="Assembly:-1" transform="translate(512.000000, 137.000000)">
+                    <path d="M0,0.174228132 C13.2667149,0.174228132 26.5185837,1.07119313 39.6669262,2.85912073 L28.0487525,90.2078743 C18.7514704,88.9436185 9.3809841,88.3093685 2.38668397e-14,88.3093685 L0,0.174228132 Z" id="Shape" stroke="#FFFFFF" fill="#19C6D8"></path>
+                    <text id="Assembly" fill="#FFFFFF" transform="translate(16.186464, 45.944000) rotate(-86.170213) translate(-16.186464, -45.944000) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                        <tspan x="-9.31353625" y="50.4440002">Assembly</tspan>
+                    </text>
+                </g>
+                <g id="Energy-Product:-none" transform="translate(540.000000, 139.000000)">
+                    <path d="M11.9903327,0.609584542 C65.3296888,7.77071779 115.75892,29.1178565 157.996479,62.415275 L103.515217,131.287372 C73.6487528,107.742541 37.9899013,92.6478349 0.273280917,87.584149 L11.9903327,0.609584542 Z" id="Shape" stroke="#FFFFFF" fill="#0095DF"></path>
+                    <text id="Energy-Product" fill="#FFFFFF" transform="translate(68.789217, 57.181723) rotate(-67.021277) translate(-68.789217, -57.181723) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                        <tspan x="30.418622" y="54.1817231">Energy </tspan>
+                        <tspan x="30.418622" y="69.1817231">Product</tspan>
+                    </text>
+                </g>
+                <g id="Geographical-capital:-none" transform="translate(644.000000, 193.000000)">
+                    <path d="M54.6631368,8.24731519 C65.1905322,16.5280892 75.150253,25.5007714 84.4756496,35.1053177 L21.1220233,96.1357333 C14.5279721,89.3442935 7.48538606,82.9996491 0.0413933834,77.1442576 L54.6631368,8.24731519 Z" id="Shape" stroke="#FFFFFF" fill="#19C6D8"></path>
+                    <text id="Geographical-capital" fill="#FFFFFF" transform="translate(46.271805, 44.648651) rotate(-47.872340) translate(-46.271805, -44.648651) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold" line-spacing="13">
+                        <tspan x="-1.26755295" y="43.6486509">Geographical </tspan>
+                        <tspan x="-1.26755295" y="56.6486509">capital</tspan>
+                    </text>
+                </g>
+                <g id="Infrastructure:-none" transform="translate(665.000000, 227.000000)">
+                    <path d="M63.3857882,0.893559729 C170.59614,111.848118 176.414944,286.04526 76.8482822,403.919356 L9.67816339,347.079385 C80.0824251,263.729812 75.9679096,140.553832 0.158742555,62.0971113 L63.3857882,0.893559729 Z" id="Shape" stroke="#FFFFFF" fill="#0095DF"></path>
+                    <text id="Infrastructure" fill="#FFFFFF" transform="translate(104.560724, 195.363162) rotate(-1.914894) translate(-104.560724, -195.363162) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                        <tspan x="67.060724" y="199.863162">Infrastructure</tspan>
+                    </text>
+                </g>
+                <g id="Logistic:-none" transform="translate(582.000000, 574.000000)">
+                    <path d="M160.482503,57.1012466 C125.570539,98.2243207 80.1973208,129.242299 29.1148697,146.906611 L0.142146194,63.8144187 C36.2628937,51.323864 68.3466042,29.3908411 93.0330906,0.312436557 L160.482503,57.1012466 Z" id="Shape" stroke="#FFFFFF" fill="#0077B6"></path>
+                    <text id="Logistic" fill="#FFFFFF" transform="translate(79.124808, 73.901362) rotate(55.531915) translate(-79.124808, -73.901362) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                        <tspan x="58.1248076" y="78.4013623">Logistic</tspan>
+                    </text>
+                </g>
+                <g id="Manufacturing:-none" transform="translate(282.000000, 574.000000)">
+                    <path d="M328.842564,147.17856 C211.332244,187.99788 80.8277667,152.235614 0.516114736,57.2069505 L67.7853685,0.313014929 C124.574282,67.5084274 216.854883,92.7961683 299.947227,63.9325498 L328.842564,147.17856 Z" id="Shape" stroke="#FFFFFF" fill="#0095DF"></path>
+                    <text id="Manufacturing" fill="#FFFFFF" transform="translate(132.008749, 101.666825) rotate(-68.680000) translate(-132.008749, -101.666825) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold" letter-spacing="-0.300000012">
+                        <tspan x="95.0087487" y="106.166825">Manufacturin</tspan>
+                        <tspan x="162.580749" y="106.166825">g</tspan>
+                    </text>
+                </g>
+                <g id="Norm:-1" transform="translate(259.000000, 552.000000)">
+                    <path d="M24.0766695,79.9191562 C15.4277443,69.6613607 7.47254911,58.8351433 0.26431918,47.5129516 L74.4531922,0.0238450776 C79.5501805,8.02984356 85.1753529,15.6851354 91.2910666,22.9384921 L24.0766695,79.9191562 Z" id="Shape" stroke="#FFFFFF" fill="#19C6D8"></path>
+                    <text id="Norm" fill="#FFFFFF" transform="translate(43.069590, 32.469116) rotate(-36.382979) translate(-43.069590, -32.469116) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                        <tspan x="28.0695895" y="36.9691159">Norm</tspan>
+                    </text>
+                </g>
+                <g id="Produced-substance:-1" transform="translate(221.000000, 527.000000)">
+                    <path d="M38.2969264,72.0208989 C31.0606553,60.7898682 24.5904508,49.091993 18.9296109,37.0055542 L99.0796459,0.154564597 C103.082464,8.70096745 107.65759,16.9726143 112.774406,24.9141523 L38.2969264,72.0208989 Z" id="Shape" stroke="#FFFFFF" fill="#0095DF"></path>
+                    <text id="Produced-substance" fill="#FFFFFF" transform="translate(48.530840, 42.827449) rotate(-28.723404) translate(-48.530840, -42.827449) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                        <tspan x="44.9332371" y="39.8274492">Produced </tspan>
+                        <tspan x="42.4012371" y="54.8274492">substance</tspan>
+                    </text>
+                </g>
+                <g id="Quaternary-economy:-none" transform="translate(214.000000, 500.000000)">
+                    <path d="M25.6589593,63.7150107 C20.0358339,51.5993069 15.2292659,39.1212149 11.2714204,26.3642368 L95.1014805,0.363808019 C97.9000999,9.38435377 101.298857,18.2076972 105.275007,26.7747936 L25.6589593,63.7150107 Z" id="Shape" stroke="#FFFFFF" fill="#0077B6"></path>
+                    <text id="Quaternary-economy" fill="#FFFFFF" transform="translate(45.772842, 37.414023) rotate(-21.063830) translate(-45.772842, -37.414023) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                        <tspan x="27.338957" y="32.0691765">Quaternary </tspan>
+                        <tspan x="39.938957" y="47.0691765">economy</tspan>
+                    </text>
+                </g>
+                <g id="Regulations:-none" transform="translate(212.000000, 293.000000)">
+                    <path d="M13.7330859,234.275782 C-10.5143236,156.32089 -1.99740493,71.8894068 37.3337562,0.313280049 L114.898648,42.7050532 C87.0873175,93.3170178 81.0649466,153.019092 98.2104543,208.141525 L13.7330859,234.275782 Z" id="Shape" stroke="#FFFFFF" fill="#19C6D8"></path>
+                    <text id="Regulations" fill="#FFFFFF" transform="translate(48.092519, 114.615348) rotate(5.744681) translate(-48.092519, -114.615348) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                        <tspan x="16.5925189" y="119.115348">Regulations</tspan>
+                    </text>
+                </g>
+                <g id="Rules:-1" transform="translate(249.000000, 259.000000)">
+                    <path d="M0.127083436,33.8408098 C6.5565959,22.1381283 13.7634239,10.8773787 21.6993402,0.133916496 L92.4664168,52.1435411 C86.8548766,59.7403161 81.7588797,67.7028686 77.2125278,75.977914 L0.127083436,33.8408098 Z" id="Shape" stroke="#FFFFFF" fill="#0095DF"></path>
+                    <text id="Rules" fill="#FFFFFF" transform="translate(49.051735, 36.554736) rotate(32.553191) translate(-49.051735, -36.554736) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                        <tspan x="34.0517349" y="41.0547357">Rules</tspan>
+                    </text>
+                </g>
+                <g id="Substance-flow:-none" transform="translate(270.000000, 160.000000)">
+                    <path d="M0.412157505,99.21639 C32.4880194,55.6806756 75.679527,21.5711132 125.463153,0.460060951 L159.9442,81.7800012 C124.74186,96.7077694 94.2008525,120.826872 71.5197931,151.611271 L0.412157505,99.21639 Z" id="Shape" stroke="#FFFFFF" fill="#0077B6"></path>
+                    <text id="Substance-flow" fill="#FFFFFF" transform="translate(83.488379, 74.263433) rotate(51.702128) translate(-83.488379, -74.263433) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                        <tspan x="60.89384" y="71.2634326">Substance </tspan>
+                        <tspan x="91.90184" y="86.2634326">flow</tspan>
+                    </text>
+                </g>
+                <g id="Technology:-none" transform="translate(395.000000, 137.000000)">
+                    <path d="M0.490224457,24.1416204 C37.6618323,8.32549775 77.6245996,0.174879909 118,0.174879909 L118,88.6397286 C89.4502806,88.6397286 61.1923368,94.4030857 34.9080409,105.586773 L0.490224457,24.1416204 Z" id="Shape" stroke="#FFFFFF" fill="#0095DF"></path>
+                    <text id="Technology" fill="#FFFFFF" transform="translate(68.929676, 52.039960) rotate(78.510638) translate(-68.929676, -52.039960) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                        <tspan x="38.4296763" y="56.5399597">Technology</tspan>
+                    </text>
+                </g>
+                <g id="Electricity:-none" transform="translate(552.000000, 71.000000)">
+                    <path d="M9.83733904,0.99592474 C42.5603219,5.38635853 74.5468288,14.1277029 104.944463,26.9870128 L78.4442663,89.3346826 C53.6247023,78.8351 27.5078288,71.6978223 0.789625133,68.1130481 L9.83733904,0.99592474 Z" id="Shape" stroke="#FFFFFF" fill="#43AADE"></path>
+                    <text id="Electricity" fill="#FFFFFF" transform="translate(46.498892, 45.504368) rotate(-74.680851) translate(-46.498892, -45.504368) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                        <tspan x="18.9988924" y="50.0043678">Electricity</tspan>
+                    </text>
+                </g>
+                <g id="Heating:-none" transform="translate(629.000000, 98.000000)">
+                    <path d="M26.9516322,0.105369935 C57.1427915,12.887862 85.4840853,29.6486504 111.220257,49.941083 L69.436481,102.771282 C48.4229852,86.20258 25.2824156,72.5174536 0.631437321,62.0805925 L26.9516322,0.105369935 Z" id="Shape" stroke="#FFFFFF" fill="#43AADE"></path>
+                    <text id="Heating" fill="#FFFFFF" transform="translate(51.154961, 48.890558) rotate(-59.361702) translate(-51.154961, -48.890558) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                        <tspan x="30.1549613" y="53.390558">Heating</tspan>
+                    </text>
+                </g>
+                <g id="Club-of-industrial-ecology:-1" transform="translate(704.000000, 130.000000)" fill="#19C6D8" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                    <text id="Club-of-industrial-ecology" transform="translate(42.526961, 45.273469) rotate(-47.872340) translate(-42.526961, -45.273469) ">
+                        <tspan x="-4.287133" y="42.2734691">Club of industrial </tspan>
+                        <tspan x="-4.287133" y="57.2734691">ecology</tspan>
+                    </text>
+                </g>
+                <g id="Industry:-none" transform="translate(728.000000, 181.000000)">
+                    <path d="M49.2396853,0.0647204041 C130.694927,84.2252719 167.274916,202.059071 147.786215,317.509102 L81.062347,306.262678 C96.9748053,211.998123 67.1073694,115.787229 0.599442789,47.070426 L49.2396853,0.0647204041 Z" id="Shape" stroke="#FFFFFF" fill="#43AADE"></path>
+                    <text id="Industry" fill="#000000" transform="translate(100.727064, 151.162012) rotate(-17.234043) translate(-100.727064, -151.162012) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="12" font-weight="normal">
+                        <tspan x="79.7270638" y="155.662012">Industry</tspan>
+                    </text>
+                </g>
+                <g id="Transport:-none" transform="translate(741.000000, 487.000000)">
+                    <path d="M134.406171,11.8833328 C123.399164,77.1374912 95.0485275,138.23153 52.3234763,188.766958 L0.607904802,145.044156 C35.4927631,103.782153 58.6409609,53.8990786 67.6281444,0.619281347 L134.406171,11.8833328 Z" id="Shape" stroke="#FFFFFF" fill="#43AADE"></path>
+                    <text id="Transport" fill="#000000" transform="translate(74.946662, 87.240854) rotate(24.893617) translate(-74.946662, -87.240854) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="12" font-weight="normal">
+                        <tspan x="50.4466619" y="91.7408545">Transport</tspan>
+                    </text>
+                </g>
+                <g id="Park-logistic:-none" transform="translate(647.000000, 631.000000)">
+                    <path d="M146.44988,43.7258492 C114.571366,81.4934074 75.4328765,112.451156 31.3638767,134.756534 L0.898572079,74.3694401 C36.8807597,56.1571752 68.8372028,30.8802795 94.8659,0.0431973746 L146.44988,43.7258492 Z" id="Shape" stroke="#FFFFFF" fill="#3286B3"></path>
+                    <text id="Park-logistic" fill="#FFFFFF" transform="translate(80.763559, 75.079265) rotate(51.702128) translate(-80.763559, -75.079265) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                        <tspan x="51.7331895" y="72.0792646">Park </tspan>
+                        <tspan x="51.7331895" y="87.0792646">logistic</tspan>
+                    </text>
+                </g>
+                <g id="Highway-and-airport:-1" transform="translate(625.000000, 715.000000)" fill="#0077B6" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                    <text id="Highway-and-airport" transform="translate(28.181090, 53.103338) rotate(67.021277) translate(-28.181090, -53.103338) ">
+                        <tspan x="-26.3189104" y="57.6033384">Highway and airport</tspan>
+                    </text>
+                </g>
+                <g id="Medical-&amp;-dental:-1" transform="translate(564.000000, 739.000000)" fill="#0095DF" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                    <text id="Medical-&amp;-dental" transform="translate(18.858116, 44.418109) rotate(74.680851) translate(-18.858116, -44.418109) ">
+                        <tspan x="-25.1418835" y="48.9181092">Medical &amp; dental</tspan>
+                    </text>
+                </g>
+                <g id="Sport-equipment:-1" transform="translate(525.000000, 746.000000)" fill="#0095DF" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                    <text id="Sport-equipment" transform="translate(12.726361, 46.062790) rotate(83.339996) translate(-12.726361, -46.062790) ">
+                        <tspan x="-32.773639" y="50.5627898">Sport equipment</tspan>
+                    </text>
+                </g>
+                <g id="Plastic:-1" transform="translate(489.000000, 747.000000)" fill="#0095DF" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                    <text id="Plastic" transform="translate(7.813001, 18.128152) rotate(89.000000) translate(-7.813001, -18.128152) ">
+                        <tspan x="-10.186999" y="22.6281516">Plastic</tspan>
+                    </text>
+                </g>
+                <g id="Non-metallic-mineral-products:-1" transform="translate(423.000000, 737.000000)" fill="#0095DF" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                    <text id="Non-metallic-mineral-products" transform="translate(21.664645, 52.550560) rotate(-82.340426) translate(-21.664645, -52.550560) ">
+                        <tspan x="4.34300531" y="49.55056">Non-metallic </tspan>
+                        <tspan x="-17.7609947" y="64.55056">mineral products</tspan>
+                    </text>
+                </g>
+                <g id="Chain:-1" transform="translate(391.000000, 727.000000)" fill="#0095DF" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                    <text id="Chain" transform="translate(11.328548, 16.930738) rotate(-74.680851) translate(-11.328548, -16.930738) ">
+                        <tspan x="-3.50745246" y="21.4307377">Chain</tspan>
+                    </text>
+                </g>
+                <g id="Food-products:-1" transform="translate(340.000000, 712.000000)" fill="#0095DF" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                    <text id="Food-products" transform="translate(21.739667, 37.912615) rotate(-67.021277) translate(-21.739667, -37.912615) ">
+                        <tspan x="-16.0883334" y="42.4126153">Food products</tspan>
+                    </text>
+                </g>
+                <g id="Cardboard,-paper:-1" transform="translate(288.000000, 691.000000)" fill="#0095DF" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                    <text id="Cardboard,-paper" transform="translate(30.404994, 44.260999) rotate(-59.361702) translate(-30.404994, -44.260999) ">
+                        <tspan x="-15.631006" y="48.760999">Cardboard, paper</tspan>
+                    </text>
+                </g>
+                <g id="Ceramic:-1" transform="translate(280.000000, 670.000000)" fill="#0095DF" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                    <text id="Ceramic" transform="translate(19.297796, 22.045330) rotate(-52.700001) translate(-19.297796, -22.045330) ">
+                        <tspan x="-1.86620426" y="26.5453297">Ceramic</tspan>
+                    </text>
+                </g>
+                <g id="Textiles:-1" transform="translate(253.000000, 645.000000)" fill="#0095DF" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                    <text id="Textiles" transform="translate(19.949829, 19.642622) rotate(-44.042553) translate(-19.949829, -19.642622) ">
+                        <tspan x="-0.0381712729" y="24.1426224">Textiles</tspan>
+                    </text>
+                </g>
+                <g id="Satisfaction-survey-by-Troyes-Champagne-tourism:-1" transform="translate(26.000000, 531.000000)" fill="#0077B6" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold" line-spacing="12">
+                    <text id="Satisfaction-survey-by-Troyes-Champagne-tourism" transform="translate(103.800292, 50.104535) rotate(-21.063830) translate(-103.800292, -50.104535) ">
+                        <tspan x="50.1850931" y="47.9965029">Satisfaction survey by Troyes </tspan>
+                        <tspan x="97.2130931" y="59.9965029">Champagne tourism</tspan>
+                    </text>
+                </g>
+                <g id="Environmental-regulation:-none" transform="translate(106.000000, 260.000000)">
+                    <path d="M55.0921959,286.092746 C25.566073,190.898793 35.9371432,87.7960064 83.830783,0.391428899 L143.006171,32.8240771 C103.901178,104.189616 95.4332343,188.372689 119.541213,266.098226 L55.0921959,286.092746 Z" id="Shape" stroke="#FFFFFF" fill="#8ADCE6"></path>
+                    <text id="Environmental-regula" fill="#FFFFFF" transform="translate(53.914711, 142.810684) rotate(5.744681) translate(-53.914711, -142.810684) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold" line-spacing="11" letter-spacing="-1.10000002">
+                        <tspan x="36.2589786" y="141.702652">Environmental </tspan>
+                        <tspan x="51.3789786" y="152.702652">regulation</tspan>
+                        <tspan x="95.3269783" y="152.702652">s</tspan>
+                    </text>
+                </g>
+                <g id="Physical-waste:-none" transform="translate(216.000000, 181.000000)">
+                    <path d="M0.014845106,37.7744388 C9.75865589,24.5091458 20.375842,11.9122532 31.7953545,0.0680580856 L80.4009838,47.221117 C71.0769909,56.8918618 62.4080947,67.1771815 54.4523066,78.0082479 L0.014845106,37.7744388 Z" id="Shape" stroke="#FFFFFF" fill="#3286B3"></path>
+                    <text id="Physical-waste" fill="#000000" transform="translate(36.421347, 35.523111) rotate(40.212766) translate(-36.421347, -35.523111) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="12" font-weight="normal">
+                        <tspan x="26.1407759" y="32.5231105">Physical </tspan>
+                        <tspan x="38.3327759" y="47.5231105">waste</tspan>
+                    </text>
+                </g>
+                <g id="Physical-Product:-none" transform="translate(248.000000, 120.000000)">
+                    <path d="M0.219368064,61.7455801 C23.0170304,38.0948581 48.8680174,17.6128906 77.0834351,0.845494298 L111.441985,59.0463223 C88.4041929,72.736844 67.2969504,89.4603004 48.682737,108.771034 L0.219368064,61.7455801 Z" id="Shape" stroke="#FFFFFF" fill="#3286B3"></path>
+                    <text id="Physical-Product" fill="#000000" transform="translate(51.891529, 42.572897) rotate(51.702128) translate(-51.891529, -42.572897) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="12" font-weight="normal">
+                        <tspan x="47.8321562" y="39.5728966">Physical </tspan>
+                        <tspan x="49.2601562" y="54.5728966">Product</tspan>
+                    </text>
+                </g>
+                <g id="Physical-resource:-1" transform="translate(324.000000, 88.000000)">
+                    <path d="M0.927557556,32.056271 C15.0824071,23.7167 29.7820267,16.327949 44.928048,9.93946245 L71.3657438,71.9572504 C58.9990692,77.1734278 46.99688,83.2063178 35.4394938,90.015549 L0.927557556,32.056271 Z" id="Shape" stroke="#FFFFFF" fill="#3286B3"></path>
+                    <text id="Physical-resource" fill="#000000" transform="translate(33.271950, 38.198856) rotate(63.191489) translate(-33.271950, -38.198856) " font-family="SourceSansPro-Regular, Source Sans Pro" font-size="12" font-weight="normal">
+                        <tspan x="27.127043" y="35.1988558">Physical </tspan>
+                        <tspan x="25.219043" y="50.1988558">resource</tspan>
+                    </text>
+                </g>
+                <g id="Collection,-treatment-and-distribution-of-water:-1" transform="translate(352.000000, 0.000000)" fill="#0095DF" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold" line-spacing="11">
+                    <text id="Collection,-treatment-and-distribution-of-water" transform="translate(35.822831, 76.847614) rotate(70.851064) translate(-35.822831, -76.847614) ">
+                        <tspan x="-28.2360736" y="75.7395817">Collection, treatment and </tspan>
+                        <tspan x="-1.36807361" y="86.7395817">distribution of water</tspan>
+                    </text>
+                </g>
+                <g id="Disposal-of-non-hazardous-waste:-1" transform="translate(413.000000, 9.000000)" fill="#0095DF" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold" line-spacing="11">
+                    <text id="Disposal-of-non-hazardous-waste" transform="translate(23.886275, 66.673795) rotate(78.510638) translate(-23.886275, -66.673795) ">
+                        <tspan x="-0.456430188" y="65.5657631">Disposal of non-</tspan>
+                        <tspan x="-4.56043019" y="76.5657631">hazardous waste</tspan>
+                    </text>
+                </g>
+                <g id="Central-heating-network-at-city-scale:-1" transform="translate(478.000000, 4.000000)" fill="#0095DF" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold" line-spacing="11">
+                    <text id="Central-heating-network-at-city-scale" transform="translate(15.387053, 65.908693) rotate(86.170213) translate(-15.387053, -65.908693) ">
+                        <tspan x="-7.25077725" y="64.8006604">Central heating </tspan>
+                        <tspan x="-34.9947772" y="75.8006604">network at city scale</tspan>
+                    </text>
+                </g>
+                <g id="Wind-turbine:-1" transform="translate(571.000000, 0.000000)" fill="#43AADE" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                    <text id="Wind-turbine" transform="translate(14.221629, 35.382727) rotate(-78.510638) translate(-14.221629, -35.382727) ">
+                        <tspan x="-20.2783707" y="39.8827269">Wind turbine</tspan>
+                    </text>
+                </g>
+                <g id="Solar-cells:-1" transform="translate(612.000000, 27.000000)" fill="#43AADE" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                    <text id="Solar-cells" transform="translate(15.941689, 28.132245) rotate(-70.851064) translate(-15.941689, -28.132245) ">
+                        <tspan x="-11.0583107" y="32.6322446">Solar cells</tspan>
+                    </text>
+                </g>
+                <g id="Biomass-boiler-room:-1" transform="translate(660.000000, 18.000000)" fill="#43AADE" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                    <text id="Biomass-boiler-room" transform="translate(34.105940, 46.506830) rotate(-62.191489) translate(-34.105940, -46.506830) ">
+                        <tspan x="-10.5617109" y="43.5068295">Biomass boiler </tspan>
+                        <tspan x="-10.5617109" y="58.5068295">room</tspan>
+                    </text>
+                </g>
+                <g id="Heating-network-through-water-circuit:-1" transform="translate(706.000000, 22.000000)" fill="#43AADE" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                    <text id="Heating-network-through-water-circuit" transform="translate(45.410405, 56.821124) rotate(-55.531915) translate(-45.410405, -56.821124) ">
+                        <tspan x="-12.9762924" y="53.8211243">Heating network </tspan>
+                        <tspan x="-12.9762924" y="68.8211243">through water circuit</tspan>
+                    </text>
+                </g>
+                <g id="Renewable-Heat-(SEM-energy):-1" transform="translate(788.000000, 122.000000)" fill="#43AADE" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold" line-spacing="12">
+                    <text id="Renewable-Heat-(SEM-energy)" transform="translate(45.445050, 41.035098) rotate(-40.212766) translate(-45.445050, -41.035098) ">
+                        <tspan x="-3.91972106" y="41.0350976">Renewable Heat </tspan>
+                        <tspan x="-3.91972106" y="53.0350976">(SEM energy)</tspan>
+                    </text>
+                </g>
+                <g id="Transport-equipment:-1" transform="translate(823.000000, 177.000000)" fill="#43AADE" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold" line-spacing="12">
+                    <text id="Transport-equipment" transform="translate(48.074344, 36.682236) rotate(-32.553191) translate(-48.074344, -36.682236) ">
+                        <tspan x="-1.30012205" y="36.6822364">Transport </tspan>
+                        <tspan x="-1.30012205" y="48.6822364">equipment</tspan>
+                    </text>
+                </g>
+                <g id="Textiles:-1" transform="translate(853.000000, 258.000000)" fill="#43AADE" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold" line-spacing="12">
+                    <text id="Textiles" transform="translate(21.120972, 14.071708) rotate(-24.893617) translate(-21.120972, -14.071708) ">
+                        <tspan x="0.620972306" y="20.0717081">Textiles</tspan>
+                    </text>
+                </g>
+                <g id="Metal-product:-1" transform="translate(865.000000, 290.000000)" fill="#43AADE" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold" line-spacing="12">
+                    <text id="Metal-product" transform="translate(37.116446, 16.692811) rotate(-17.234043) translate(-37.116446, -16.692811) ">
+                        <tspan x="0.116445882" y="22.6928115">Metal product</tspan>
+                    </text>
+                </g>
+                <g id="Foodstuffs:-1" transform="translate(877.000000, 342.000000)" fill="#43AADE" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold" line-spacing="12">
+                    <text id="Foodstuffs" transform="translate(29.100978, 10.656808) rotate(-9.574468) translate(-29.100978, -10.656808) ">
+                        <tspan x="0.600978366" y="16.6568081">Foodstuffs</tspan>
+                    </text>
+                </g>
+                <g id="Rubber-&amp;-plastic:-1" transform="translate(886.000000, 402.000000)" fill="#43AADE" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold" line-spacing="12">
+                    <text id="Rubber-&amp;-plastic" transform="translate(43.676198, 7.450201) rotate(-1.914894) translate(-43.676198, -7.450201) ">
+                        <tspan x="0.176197884" y="13.4502009">Rubber &amp; plastic</tspan>
+                    </text>
+                </g>
+                <g id="Paper-&amp;-printing:-1" transform="translate(885.000000, 462.000000)" fill="#43AADE" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold" line-spacing="12">
+                    <text id="Paper-&amp;-printing" transform="translate(43.882109, 10.324029) rotate(5.744681) translate(-43.882109, -10.324029) ">
+                        <tspan x="0.382109106" y="16.3240295">Paper &amp; printing</tspan>
+                    </text>
+                </g>
+                <g id="Rail-road:-1" transform="translate(873.000000, 520.000000)" fill="#43AADE" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold" line-spacing="12">
+                    <text id="Rail-road" transform="translate(24.737129, 11.400236) rotate(13.404255) translate(-24.737129, -11.400236) ">
+                        <tspan x="0.737128832" y="17.4002356">Rail road</tspan>
+                    </text>
+                </g>
+                <g id="Land-transport:-none" transform="translate(793.000000, 546.000000)">
+                    <path d="M125.756093,17.0780376 C108.821003,71.5076806 81.0757597,121.984259 44.1717198,165.50348 L0.573476274,128.754144 C32.5333124,91.0653932 56.5613981,47.3513939 71.2276164,0.213940451 L125.756093,17.0780376 Z" id="Shape" stroke="#FFFFFF" fill="#8FD5F7"></path>
+                    <text id="Land-transport" fill="#FFFFFF" transform="translate(75.487703, 83.103539) rotate(28.723404) translate(-75.487703, -83.103539) " font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                        <tspan x="44.3810504" y="80.1035388">Land </tspan>
+                        <tspan x="44.3810504" y="95.1035388">transport</tspan>
+                    </text>
+                </g>
+                <g id="Reshipment-of-products:-1" transform="translate(767.000000, 691.000000)" fill="#3286B3" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                    <text id="Reshipment-of-products" transform="translate(47.446340, 47.997650) rotate(45.040001) translate(-47.446340, -47.997650) ">
+                        <tspan x="-4.64757509" y="44.9976504">Reshipment of </tspan>
+                        <tspan x="-4.64757509" y="59.9976504">products</tspan>
+                    </text>
+                </g>
+                <g id="Inventory-Management:-1" transform="translate(726.000000, 727.000000)" fill="#3286B3" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                    <text id="Inventory-Management" transform="translate(40.485299, 47.633963) rotate(54.700001) translate(-40.485299, -47.633963) ">
+                        <tspan x="-7.09082752" y="44.6339635">Inventory </tspan>
+                        <tspan x="-7.09082752" y="59.6339635">Management</tspan>
+                    </text>
+                </g>
+                <g id="Sotrage:-1" transform="translate(699.000000, 755.000000)" fill="#3286B3" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                    <text id="Storage" transform="translate(17.618493, 22.446879) rotate(59.361702) translate(-17.618493, -22.446879) ">
+                        <tspan x="-2.8815067" y="26.9468789">Storage</tspan>
+                    </text>
+                </g>
+                <g id="Regulation-of-industrial-ecology:-1" transform="translate(42.000000, 507.000000)" fill="#8ADCE6" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold" letter-spacing="-0.100000001" line-spacing="11">
+                    <text id="Regulation-of-industrial-ecology" transform="translate(54.490412, 23.078368) rotate(-13.404255) translate(-54.490412, -23.078368) ">
+                        <tspan x="33.0813521" y="21.9703361">Regulation of </tspan>
+                        <tspan x="9.42135206" y="32.9703361">industrial ecolog</tspan>
+                        <tspan x="96.149352" y="32.9703361">y</tspan>
+                    </text>
+                </g>
+                <g id="Developing-renewable-energy:-1" transform="translate(34.000000, 443.000000)" fill="#8ADCE6" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold" letter-spacing="-0.100000001" line-spacing="11">
+                    <text id="Developing-renewable-energy" transform="translate(53.624838, 16.228697) rotate(-5.744681) translate(-53.624838, -16.228697) ">
+                        <tspan x="42.2177385" y="15.1206653">Developing </tspan>
+                        <tspan x="7.49773855" y="26.1206653">renewable energ</tspan>
+                        <tspan x="94.6777385" y="26.1206653">y</tspan>
+                    </text>
+                </g>
+                <g id="Contribute-to-controlling-energy:-1" transform="translate(27.000000, 380.000000)" fill="#8ADCE6" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold" letter-spacing="-0.100000001" line-spacing="11">
+                    <text id="Contribute-to-controlling-energy" transform="translate(59.382980, 15.933524) rotate(4.910000) translate(-59.382980, -15.933524) ">
+                        <tspan x="42.3268121" y="14.8254919">Contribute to </tspan>
+                        <tspan x="16.4828121" y="25.8254919">controlling energ</tspan>
+                        <tspan x="105.694812" y="25.8254919">y</tspan>
+                    </text>
+                </g>
+                <g id="Development-of-recycling-sector:-1" transform="translate(23.000000, 316.000000)" fill="#8ADCE6" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold" letter-spacing="-0.100000001" line-spacing="11">
+                    <text id="Development-of-recycling-sector" transform="translate(65.042125, 25.509395) rotate(12.570000) translate(-65.042125, -25.509395) ">
+                        <tspan x="40.8836008" y="24.4013629">Development of </tspan>
+                        <tspan x="41.6796008" y="35.4013629">recycling secto</tspan>
+                        <tspan x="118.887601" y="35.4013629">r</tspan>
+                    </text>
+                </g>
+                <g id="Environmental-issue-awareness-&amp;-information-actions:-1" transform="translate(0.000000, 242.000000)" fill="#8ADCE6" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold" letter-spacing="-0.100000001" line-spacing="11">
+                    <text id="Environmental-issue-awareness-&amp;-information-actions" transform="translate(84.279550, 40.638929) rotate(20.230000) translate(-84.279550, -40.638929) ">
+                        <tspan x="-0.359315143" y="39.5308965">Environmental issue awareness </tspan>
+                        <tspan x="50.8566848" y="50.5308965">&amp; information action</tspan>
+                        <tspan x="158.308685" y="50.5308965">s</tspan>
+                    </text>
+                </g>
+                <g id="Democratic-collective-for-water:-1" transform="translate(42.000000, 199.000000)" fill="#8ADCE6" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold" letter-spacing="-0.100000001" line-spacing="11">
+                    <text id="Democratic-collective-for-water" transform="translate(71.596711, 41.243594) rotate(24.893617) translate(-71.596711, -41.243594) ">
+                        <tspan x="10.660275" y="40.1355614">Democratic collective for </tspan>
+                        <tspan x="109.336275" y="51.1355614">wate</tspan>
+                        <tspan x="134.832275" y="51.1355614">r</tspan>
+                    </text>
+                </g>
+                <g id="Revovery-of-stored-wastes:-1" transform="translate(161.000000, 134.000000)" fill="#3286B3" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold" line-spacing="13">
+                    <text id="Recovery-of-stored-w" transform="translate(39.066865, 35.860485) rotate(40.212766) translate(-39.066865, -35.860485) ">
+                        <tspan x="11.8659775" y="33.7524526">Recovery of </tspan>
+                        <tspan x="0.981977538" y="46.7524526">stored wastes</tspan>
+                    </text>
+                </g>
+                <g id="Flavor-circuit:-1" transform="translate(214.000000, 101.000000)" fill="#3286B3" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                    <text id="Flavor-circuit" transform="translate(29.039856, 30.988709) rotate(47.872340) translate(-29.039856, -30.988709) ">
+                        <tspan x="-5.92014365" y="35.4887092">Flavor circuit</tspan>
+                    </text>
+                </g>
+                <g id="Organic-agriculture:-1" transform="translate(237.000000, 37.000000)" fill="#3286B3" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold">
+                    <text id="Organic-agriculture" transform="translate(39.656790, 49.636742) rotate(56.529999) translate(-39.656790, -49.636742) ">
+                        <tspan x="47.6636892" y="46.6367422">Organic </tspan>
+                        <tspan x="29.8556892" y="61.6367422">agriculture</tspan>
+                    </text>
+                </g>
+                <g id="Regular-road:-1" transform="translate(914.000000, 575.000000)" fill="#8FD5F7" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold" line-spacing="12">
+                    <text id="Regular-road" transform="translate(33.884587, 17.818948) rotate(21.063830) translate(-33.884587, -17.818948) ">
+                        <tspan x="-0.115412588" y="23.8189479">Regular road</tspan>
+                    </text>
+                </g>
+                <g id="Road-freight:-1" transform="translate(890.000000, 631.000000)" fill="#8FD5F7" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold" line-spacing="12">
+                    <text id="Road-freight" transform="translate(31.822838, 21.120897) rotate(28.723404) translate(-31.822838, -21.120897) ">
+                        <tspan x="-1.17716184" y="27.1208975">Road freight</tspan>
+                    </text>
+                </g>
+                <g id="Green-route:-1" transform="translate(859.000000, 684.000000)" fill="#8FD5F7" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="12" font-weight="bold" line-spacing="12">
+                    <text id="Green-route" transform="translate(28.918785, 23.515582) rotate(36.382979) translate(-28.918785, -23.515582) ">
+                        <tspan x="-2.58121486" y="29.5155823">Green route</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

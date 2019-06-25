@@ -1,0 +1,92 @@
+body{
+	font-family: "Open Sans", sans-serif;
+	background-color: #efefef;
+}
+
+.App h1{
+  font-family: "Source Sans Pro", "Open Sans", sans-serif;
+  font-weight: bold;
+  font-size: 1.7rem;
+  text-align: center;
+  padding: 1.5rem;
+  color: #8ACA35;
+  background-color: #efefef;
+}
+
+.mainSection {
+	display: flex;
+	
+}
+
+aside {
+	display: flex;
+	flex-flow:column;
+	flex: 3;
+	padding: 2%; 
+	background-color: #efefef;
+}
+
+
+/*====================================
+			Menu and Tree
+====================================*/			
+.Menu{
+	background-color: #fff;
+	padding: 1.5rem;
+	border-radius: 8px;
+	margin-bottom: 2rem;
+	color: #555;
+}
+
+.Menu h2{
+	font-family: "Source Sans Pro";
+	font-size: 1.4rem;
+	font-weight: bold;
+	color: #333;
+}
+
+.RootMenu {
+	font-family: "Source Sans Pro";
+	font-weight: bold;
+	font-size: 1.2rem;
+	margin-left: none;
+}
+
+.menu {
+	margin-left: 16px;
+	transition: all 1s ease-in-out;
+}
+
+.parentEntity{
+	cursor: pointer;
+	color: #0095DF;
+}
+
+.clickable{
+	cursor: pointer;
+}
+
+/*====================================
+		Buttons and Modals
+====================================*/		
+.greenButton{
+	background-color: #8ACA35;
+	border: none;
+	margin-bottom: 1rem;
+	padding: 1rem;
+	font-weight: bold;
+	font-size: 1.4rem;
+}
+.greenButton:hover{
+	background-color: #00B127;
+}
+.greenButton:not(:disabled):not(.disabled):active{
+	background-color: #00B127;
+}
+
+
+.figure {
+	flex: 7;
+	padding:0 10rem;
+	z-index: -1;
+}
